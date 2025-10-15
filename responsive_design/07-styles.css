@@ -1,0 +1,13 @@
+/* Media query for max-width: 480px */
+@media (max-width: 480px) {
+  html {
+    font-size: 57%;
+  }
+}
+
+/* Media query for min-width: 481px and max-width: 767px */
+@media (min-width: 481px) and (max-width: 767px) {
+  html {
+    font-size: 60%;
+  }
+}
