@@ -1,0 +1,8 @@
+<img
+    sizes="(max-width: 3000px) 40vw, 1200px"
+    srcset="
+      castle_c_scale,w_380.jpg 380w,
+      castle_c_scale,w_380.jpg 380w,
+      castle_c_scale,w_380.jpg 380w,"
+    src="castle_c_scale,w_380.jpg 380w,"
+    alt="">
